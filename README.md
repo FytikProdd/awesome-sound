@@ -108,9 +108,10 @@
 
 ## Applications
 
-* [MuseScore](https://musescore.org/)
-* [LilyPond](http://lilypond.org/)
 * [GuitarPro](https://www.guitar-pro.com/en/)
+* [LilyPond](http://lilypond.org/)
+* [Mechvibes X](https://github.com/FytikProdd/mechvibes-x)
+* [MuseScore](https://musescore.org/)
 
 ## Other Awesome Lists
 
